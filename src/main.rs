@@ -31,6 +31,8 @@ fn main() -> Result<(), std::num::ParseIntError> {
         }
     }
 
+    println!("Au revoir!");
+
     Ok(())
 }
 
